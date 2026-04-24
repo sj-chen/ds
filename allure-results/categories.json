@@ -1,11 +1,6 @@
 [
     {
-        "name": "产品缺陷",
-        "matchedStatuses": ["failed"],
-        "messageRegex": ".*业务.*"
-    },
-    {
-        "name": "断言2222出错",
+        "name": "断言出错",
         "matchedStatuses": ["failed"],
         "messageRegex": ".*Assert.*"
     },

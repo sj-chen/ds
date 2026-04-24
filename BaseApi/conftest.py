@@ -1,6 +1,7 @@
 import pymysql
 import pytest
 
+from BaseApi.api_login import User
 from BaseApi.http_client import HttpClient
 from BaseApi.log import setup_logging
 from common.file import load_setting, load_data
@@ -38,3 +39,8 @@ def db(setting):
 
     yield cursor
     cursor.close()
+
+@pytest.fixture(scope="class")
+def user_api(client) :
+    u = User(client)
+    yield u

@@ -102,3 +102,56 @@
 2026-04-24 14:38:31 - urllib3.util.retry - DEBUG - Incremented Retry for (url='/sso/login'): Retry(total=0, connect=None, read=None, redirect=None, status=None)
 2026-04-24 14:38:39 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='192.168.1.49', port=8085): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")': /sso/login
 2026-04-24 14:38:39 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (20): 192.168.1.49:8085
+2026-04-24 14:47:34 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-24 14:47:34 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-24 14:47:36 - urllib3.util.retry - DEBUG - Incremented Retry for (url='/sso/login'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-04-24 14:47:36 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='192.168.1.49', port=8085): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")': /sso/login
+2026-04-24 14:47:36 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (2): 192.168.1.49:8085
+2026-04-24 14:47:38 - urllib3.util.retry - DEBUG - Incremented Retry for (url='/sso/login'): Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2026-04-24 14:47:42 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='192.168.1.49', port=8085): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")': /sso/login
+2026-04-24 14:47:42 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (3): 192.168.1.49:8085
+2026-04-24 14:47:44 - urllib3.util.retry - DEBUG - Incremented Retry for (url='/sso/login'): Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2026-04-24 14:47:52 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='192.168.1.49', port=8085): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")': /sso/login
+2026-04-24 14:47:52 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (4): 192.168.1.49:8085
+2026-04-24 14:47:56 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-24 14:47:56 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (5): 192.168.1.49:8085
+2026-04-24 14:47:58 - urllib3.util.retry - DEBUG - Incremented Retry for (url='/sso/login'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-04-24 14:47:58 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='192.168.1.49', port=8085): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")': /sso/login
+2026-04-24 14:47:58 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (6): 192.168.1.49:8085
+2026-04-24 14:48:01 - urllib3.util.retry - DEBUG - Incremented Retry for (url='/sso/login'): Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2026-04-24 14:48:05 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='192.168.1.49', port=8085): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")': /sso/login
+2026-04-24 14:48:05 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (7): 192.168.1.49:8085
+2026-04-24 14:48:07 - urllib3.util.retry - DEBUG - Incremented Retry for (url='/sso/login'): Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2026-04-24 14:48:15 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='192.168.1.49', port=8085): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")': /sso/login
+2026-04-24 14:48:15 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (8): 192.168.1.49:8085
+2026-04-24 14:48:17 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-24 14:48:17 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (9): 192.168.1.49:8085
+2026-04-24 14:48:19 - urllib3.util.retry - DEBUG - Incremented Retry for (url='/sso/login'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-04-24 14:48:19 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='192.168.1.49', port=8085): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")': /sso/login
+2026-04-24 14:48:19 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (10): 192.168.1.49:8085
+2026-04-24 14:48:21 - urllib3.util.retry - DEBUG - Incremented Retry for (url='/sso/login'): Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2026-04-24 14:48:25 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='192.168.1.49', port=8085): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")': /sso/login
+2026-04-24 14:48:25 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (11): 192.168.1.49:8085
+2026-04-24 14:48:27 - urllib3.util.retry - DEBUG - Incremented Retry for (url='/sso/login'): Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2026-04-24 14:48:35 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='192.168.1.49', port=8085): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")': /sso/login
+2026-04-24 14:48:35 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (12): 192.168.1.49:8085
+2026-04-24 14:48:38 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-24 14:48:38 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (13): 192.168.1.49:8085
+2026-04-24 14:48:40 - urllib3.util.retry - DEBUG - Incremented Retry for (url='/sso/login'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-04-24 14:48:40 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='192.168.1.49', port=8085): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")': /sso/login
+2026-04-24 14:48:40 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (14): 192.168.1.49:8085
+2026-04-24 14:48:42 - urllib3.util.retry - DEBUG - Incremented Retry for (url='/sso/login'): Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2026-04-24 14:48:46 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='192.168.1.49', port=8085): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")': /sso/login
+2026-04-24 14:48:46 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (15): 192.168.1.49:8085
+2026-04-24 14:48:48 - urllib3.util.retry - DEBUG - Incremented Retry for (url='/sso/login'): Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2026-04-24 14:48:56 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='192.168.1.49', port=8085): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")': /sso/login
+2026-04-24 14:48:56 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (16): 192.168.1.49:8085
+2026-04-24 14:48:59 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-24 14:48:59 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (17): 192.168.1.49:8085
+2026-04-24 14:49:02 - urllib3.util.retry - DEBUG - Incremented Retry for (url='/sso/login'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2026-04-24 14:49:02 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='192.168.1.49', port=8085): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")': /sso/login
+2026-04-24 14:49:02 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (18): 192.168.1.49:8085
+2026-04-24 14:49:04 - urllib3.util.retry - DEBUG - Incremented Retry for (url='/sso/login'): Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2026-04-24 14:49:08 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='192.168.1.49', port=8085): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")': /sso/login
+2026-04-24 14:49:08 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (19): 192.168.1.49:8085
+2026-04-24 14:49:14 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None

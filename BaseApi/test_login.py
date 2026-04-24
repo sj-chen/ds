@@ -1,15 +1,6 @@
 import pytest
-import requests
 import allure
-from BaseApi.api_login import User
-from BaseApi.conftest import client
 from common.file import load_data
-
-
-@pytest.fixture(scope="package")
-def user(client) :
-    u = User(client)
-    yield u
 
 data = load_data('user.yaml')
 
