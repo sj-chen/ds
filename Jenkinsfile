@@ -2,10 +2,15 @@ pipeline {
     agent any
     environment {
         ALLURE_RESULTS = "allure-results"
+        TEST_IMAGE = 'my-test-runner:latest'
+
     }
     stages {
         stage('CheckOut'){
-            steps { git branch: 'master', url: 'https://github.com/sj-chen/ds.git'}
+            steps {
+//             git branch: 'master', url: 'https://github.com/sj-chen/ds.git'
+                checkout scm
+            }
         }
 //         stage('Start Environment'){
 //             steps { sh "$DOCKER_COMPOSE up -d mysql redis"
@@ -13,21 +18,18 @@ pipeline {
 //             }
 //         }
         stage('api autotest'){
-            steps {
-                catchError(buildResult: 'UNSTABLE', stageResult: 'FAILURE') {
-                    sh '''# 进入项目目录（Jenkins 会自动拉取到工作空间）
-                        cd $WORKSPACE
-                        if [ ! -d "venv" ]; then
-                            python3 -m venv venv
-                        fi
-                        . venv/bin/activate   # Linux/Mac
-
-                        # 安装依赖
-                        pip install -r requirements.txt
-                        # 运行测试并生成 allure 结果
-                        pytest -s -v --alluredir=allure-results --junitxml=junit.xml
-                    '''
+            script {
+                docker.image("${TEST_IMAGE}").inside() {
+                    catchError(buildResult: 'UNSTABLE', stageResult: 'FAILURE') {
+                        sh '''
+                            # 安装依赖
+                            pip install -r requirements.txt
+                            # 运行测试并生成 allure 结果
+                            pytest -s -v --alluredir=allure-results --junitxml=junit.xml
+                        '''
+                    }
                 }
+
             }
         }
         stage('gate'){
