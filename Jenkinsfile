@@ -5,12 +5,12 @@ pipeline {
     }
     stages {
         stage('CheckOut'){
-            steps { git branch: 'main', url: 'https://github.com/sj-chen/ds.git'}
+            steps { git branch: 'master', url: 'https://github.com/sj-chen/ds.git'}
         }
 //         stage('Start Environment'){
 //             steps { sh "$DOCKER_COMPOSE up -d mysql redis"
 //                 sh "sleep 10"
-//             }1
+//             }
 //         }
         stage('api autotest'){
             steps { sh 'pytest $WORKSPACE/ --allure-dir = ALLURE_RESULTS'}
