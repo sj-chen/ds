@@ -1,13 +1,13 @@
 pipeline {
     agent any
-    enviroment = {
+    environment = {
         ALLURE_RESULTS = "allure-results"
     }
     stages {
         stage('CheckOut'){
             steps { git branch: 'main', url: 'https://github.com/sj-chen/ds.git'}
         }
-        stage('Start Envirement'){
+        stage('Start Environment'){
             steps { sh "$DOCKER_COMPOSE up -d mysql redis"
                 sh "sleep 10"
             }
