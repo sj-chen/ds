@@ -13,7 +13,18 @@ pipeline {
 //             }
 //         }
         stage('api autotest'){
-            steps { sh 'pytest $WORKSPACE/ --allure-dir = ALLURE_RESULTS'}
+            steps {
+                sh '# 进入项目目录（Jenkins 会自动拉取到工作空间）
+                    cd $WORKSPACE
+                    if [ ! -d "venv" ]; then
+                        python3 -m venv venv
+                    fi
+                    . venv/bin/activate   # Linux/Mac
+                    # 安装依赖
+                    pip install -r requirements.txt
+                    # 运行测试并生成 allure 结果
+                    pytest -s -v --alluredir=allure-results
+                '
         }
         stage('gate'){
             steps {
