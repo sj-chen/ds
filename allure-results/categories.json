@@ -1,0 +1,22 @@
+[
+    {
+        "name": "产品缺陷",
+        "matchedStatuses": ["failed"],
+        "messageRegex": ".*业务.*"
+    },
+    {
+        "name": "断言2222出错",
+        "matchedStatuses": ["failed"],
+        "messageRegex": ".*Assert.*"
+    },
+    {
+        "name": "环境问题",
+        "matchedStatuses": ["broken"],
+        "messageRegex": ".*连接.*|.*超时.*|.*拒绝.*|.*Assert.*"
+    },
+    {
+        "name": "脚本错误",
+        "matchedStatuses": ["broken"],
+        "messageRegex": ".*KeyError.*|.*AttributeError.*|.*JSONDecodeError.*"
+    }
+]
