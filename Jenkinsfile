@@ -18,18 +18,20 @@ pipeline {
 //             }
 //         }
         stage('api autotest'){
-            script {
-                docker.image("${TEST_IMAGE}").inside() {
-                    catchError(buildResult: 'UNSTABLE', stageResult: 'FAILURE') {
-                        sh '''
-                            # 安装依赖
-                            pip install -r requirements.txt
-                            # 运行测试并生成 allure 结果
-                            pytest -s -v --alluredir=allure-results --junitxml=junit.xml
-                        '''
+            steps{
+                script {
+                    docker.image("${TEST_IMAGE}").inside() {
+                        catchError(buildResult: 'UNSTABLE', stageResult: 'FAILURE') {
+                            sh '''
+                                # 安装依赖
+                                pip install -r requirements.txt
+                                # 运行测试并生成 allure 结果
+                                pytest -s -v --alluredir=allure-results --junitxml=junit.xml
+                            '''
+                        }
                     }
-                }
 
+                }
             }
         }
         stage('gate'){

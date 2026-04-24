@@ -1,5 +1,8 @@
 FROM python:3.10-slim
 
+RUN sed -i 's/deb.debian.org/mirrors.aliyun.com/g' /etc/apt/sources.list && \
+    sed -i 's/security.debian.org/mirrors.aliyun.com\/debian-security/g' /etc/apt/sources.list
+
 # 安装系统依赖：JDK（Allure 需要）、curl、wget
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
