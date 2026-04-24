@@ -10,7 +10,7 @@ pipeline {
 //         stage('Start Environment'){
 //             steps { sh "$DOCKER_COMPOSE up -d mysql redis"
 //                 sh "sleep 10"
-//             }
+//             }1
 //         }
         stage('api autotest'){
             steps { sh 'pytest $WORKSPACE/ --allure-dir = ALLURE_RESULTS'}
