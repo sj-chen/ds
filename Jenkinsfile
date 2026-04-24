@@ -1,6 +1,6 @@
 pipeline {
     agent any
-    environment = {
+    environment {
         ALLURE_RESULTS = "allure-results"
     }
     stages {
