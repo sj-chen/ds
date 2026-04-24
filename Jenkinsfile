@@ -41,7 +41,14 @@ pipeline {
                         error("自动化测试通过率 ${passRate}% < 95%")
                     }
                 }
-
+            }
+        }
+    }
+    post {
+        always {
+            script {
+                // 使用 Allure 插件生成报告
+                allure includeProperties: false, jdk: '', results: [[path: 'allure-results']]
             }
         }
     }
