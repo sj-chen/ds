@@ -41,6 +41,6 @@ def db(setting):
     cursor.close()
 
 @pytest.fixture(scope="class")
-def user_api(client) :
+def user(client) :
     u = User(client)
     yield u

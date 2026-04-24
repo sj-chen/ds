@@ -1,4 +1,3 @@
-from BaseApi.conftest import client
 from BaseApi.http_client import HttpClient
 from BaseApi.response import ResponseWrapper
 

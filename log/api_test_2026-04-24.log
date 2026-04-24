@@ -155,3 +155,14 @@
 2026-04-24 14:49:08 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='192.168.1.49', port=8085): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")': /sso/login
 2026-04-24 14:49:08 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (19): 192.168.1.49:8085
 2026-04-24 14:49:14 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-24 22:35:38 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-24 22:35:38 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-24 22:35:38 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-24 22:35:38 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-24 22:35:39 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-24 22:35:39 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-24 22:35:39 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-24 22:35:39 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-24 22:35:39 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-24 22:35:39 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-24 22:35:39 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
