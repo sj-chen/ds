@@ -5,7 +5,7 @@ pipeline {
     }
     stages {
         stage('CheckOut'){
-            steps { git branch 'main', url: 'https://github.com/sj-chen/ds.git'}
+            steps { git branch: 'main', url: 'https://github.com/sj-chen/ds.git'}
         }
         stage('Start Envirement'){
             steps { sh "$DOCKER_COMPOSE up -d mysql redis"
