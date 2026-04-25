@@ -26,7 +26,10 @@ pipeline {
                                 # 安装依赖
                                 # pip install -r requirements.txt
                                 # 运行测试并生成 allure 结果
-                                pytest -s -v --alluredir=allure-results --junitxml=junit.xml --clean-alluredir
+                                rm -rf allure-results
+                                mkdir -p allure-results
+                                cp categories.json allure-results/
+                                pytest -s -v --alluredir=allure-results --junitxml=junit.xml
                             '''
                         }
                     }
