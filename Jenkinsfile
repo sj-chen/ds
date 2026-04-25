@@ -52,7 +52,8 @@ pipeline {
         always {
             script {
                 // 使用 Allure 插件生成报告
-                allure includeProperties: false, jdk: '', results: [[path: 'allure-results']]
+                allure includeProperties: false, jdk: '', results: [[path: 'allure-results']],report: 'allure-report',
+                properties: [disableHistory: true]
             }
         }
     }
