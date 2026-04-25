@@ -1,0 +1,928 @@
+2026-04-25 12:32:03 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:32:03 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 12:32:04 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:32:04 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:32:04 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:32:04 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:32:04 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:32:04 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:32:04 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:32:04 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:32:04 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:32:05 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:32:05 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:32:05 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:32:05 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:32:05 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:32:05 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:32:05 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:32:05 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:32:05 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:32:05 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:32:05 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:32:05 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:32:05 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:32:05 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:32:05 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:32:05 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:32:05 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:32:05 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:32:05 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:32:05 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:32:48 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:32:48 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 12:32:48 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:32:48 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:32:48 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:32:48 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:32:48 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:32:48 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:32:48 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:32:48 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:32:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:32:49 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:32:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:32:49 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:32:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:32:49 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:32:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:32:49 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:32:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:32:49 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:32:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:32:49 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:32:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:32:49 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:32:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:32:49 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:32:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:32:49 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:32:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:32:49 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:32:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:32:49 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:32:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:32:49 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:32:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:32:49 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:32:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:32:49 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:32:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:32:49 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:32:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:46:50 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:46:50 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 12:46:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:46:51 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:46:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:46:51 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:46:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:46:51 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:46:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:46:51 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:46:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:46:51 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:46:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:46:51 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:46:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:46:51 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:46:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:46:51 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:46:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:46:51 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:46:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:46:51 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:46:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:46:51 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:46:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:46:51 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:46:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:46:51 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:46:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:46:51 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:46:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:46:51 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:46:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:46:51 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:46:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:46:51 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:46:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:46:51 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:46:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:46:51 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:46:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:47:15 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:47:15 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 12:47:15 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:49:22 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:49:22 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 192.168.1.49
+2026-04-25 12:49:22 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:49:30 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:49:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:49:31 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:49:31 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:49:31 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:49:31 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:49:31 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:49:32 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:49:32 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:49:32 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:49:32 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:49:32 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:49:32 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:49:32 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:49:32 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:49:32 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:49:32 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:49:32 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:49:32 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:49:32 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:49:32 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:49:32 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:49:32 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:49:32 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:49:32 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:49:32 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:49:32 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:49:32 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:49:32 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:49:32 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:49:32 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:49:32 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:49:32 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:49:32 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:49:32 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:49:32 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:51:40 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:51:40 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 12:51:40 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:51:40 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:51:40 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:51:40 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:51:40 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:51:40 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:51:40 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:51:40 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:51:40 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:51:40 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:51:41 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:51:41 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:51:41 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:51:41 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:51:41 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:51:41 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:51:41 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:51:41 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:51:41 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:51:41 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:51:41 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:51:41 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:51:41 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:51:41 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:51:41 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:51:41 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:51:41 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:51:41 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:51:41 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:51:41 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:51:41 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:51:41 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:51:41 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:51:41 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:51:41 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:51:41 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:51:41 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:51:41 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:51:41 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:55:17 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:55:17 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 12:55:18 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:55:18 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:55:18 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:55:18 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:55:18 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:55:18 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:55:18 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:55:18 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:55:18 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:55:18 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:55:18 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:55:18 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:55:18 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:55:18 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:55:18 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:55:18 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:55:18 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:55:18 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:55:18 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:55:18 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:55:18 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:55:18 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:55:18 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:55:18 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:55:18 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:55:18 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:55:18 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:55:18 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:55:18 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:55:18 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:55:18 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:55:18 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:55:18 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:55:18 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:55:18 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:55:18 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:55:18 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:55:18 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:55:18 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:56:32 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:56:32 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 12:56:32 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:56:32 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:56:32 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:56:33 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:56:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:56:33 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:56:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:56:33 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:56:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:56:33 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:56:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:56:33 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:56:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:56:33 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:56:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:56:33 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:56:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:56:33 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:56:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:56:33 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:56:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:56:33 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:56:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:56:33 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:56:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:56:33 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:56:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:56:33 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:56:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:56:33 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:56:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:56:33 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:56:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:56:33 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:56:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:56:33 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:56:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:56:33 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:56:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:57:30 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:57:30 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 12:57:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:57:30 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:57:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:57:30 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:57:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:57:30 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:57:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:57:30 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:57:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:57:30 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:57:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:57:30 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:57:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:57:30 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:57:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:57:30 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:57:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:57:30 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:57:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:57:30 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:57:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:57:30 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:57:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:57:30 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:57:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:57:30 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:57:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:57:30 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:57:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:57:30 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:57:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:57:30 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:57:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:57:30 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:57:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:57:30 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:57:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:57:30 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:57:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:57:53 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:57:53 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 12:57:53 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:57:53 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:57:53 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:57:53 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:57:53 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:57:53 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:57:53 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:57:53 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:57:53 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:57:54 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:57:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:57:54 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:57:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:57:54 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:57:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:57:54 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:57:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:57:54 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:57:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:57:54 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:57:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:57:54 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:57:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:57:54 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:57:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:57:54 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:57:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:57:54 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:57:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:57:54 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:57:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:57:54 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:57:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:57:54 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:57:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:57:54 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:57:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:57:54 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:57:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:58:48 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:58:48 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 12:58:48 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:58:53 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:58:53 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:58:53 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:58:53 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:58:53 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:58:53 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:58:53 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:58:53 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:58:55 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:58:55 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:58:58 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:58:58 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:59:00 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:59:00 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:59:08 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:59:08 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:59:08 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:59:08 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:59:08 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:59:08 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:59:48 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:59:48 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 12:59:48 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:59:48 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:59:48 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:59:48 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:59:48 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:59:48 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:59:48 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:59:48 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:59:48 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:59:48 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:59:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:59:49 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:59:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:59:49 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:59:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:59:49 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:59:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:59:49 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:59:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:59:49 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:59:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:59:49 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:59:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:59:49 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:59:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:59:49 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:59:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:59:49 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:59:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:59:49 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:59:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:59:49 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:59:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:59:49 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 12:59:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 12:59:49 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:59:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 12:59:49 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 12:59:49 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:00:04 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:00:04 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 13:00:04 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:00:04 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:00:05 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:00:05 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:00:05 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:00:06 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:00:06 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:00:06 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:00:06 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:00:28 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:00:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:00:30 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:00:30 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:00:31 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:00:31 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:00:53 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:00:53 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:01:07 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:01:07 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:01:13 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:01:13 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:01:17 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:01:17 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:01:17 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:01:17 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:01:17 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:01:17 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:01:19 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:01:19 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:01:19 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:01:19 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:01:19 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:01:19 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:01:19 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:01:19 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:01:19 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:01:19 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:01:19 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:01:19 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:01:55 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:01:55 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 13:01:55 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:01:55 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:01:55 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:01:55 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:01:55 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:01:55 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:01:55 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:01:55 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:01:55 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:01:55 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:01:55 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:01:55 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:01:55 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:01:55 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:01:56 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:01:56 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:01:56 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:01:56 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:01:56 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:01:56 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:01:56 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:01:56 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:01:56 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:01:56 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:01:56 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:01:56 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:01:56 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:01:56 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:01:56 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:02:50 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:02:50 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 13:02:50 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:02:50 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:02:50 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:02:50 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:02:50 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:02:50 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:02:50 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:02:50 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:02:50 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:02:51 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:02:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:02:51 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:02:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:02:51 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:02:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:02:51 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:02:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:02:51 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:02:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:02:51 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:02:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:02:51 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:02:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:02:51 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:02:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:02:51 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:02:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:02:51 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:02:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:04:11 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:04:11 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 13:04:11 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:04:11 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:04:11 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:04:11 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:04:11 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:04:11 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:04:11 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:04:11 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:04:11 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:04:12 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:04:12 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:04:12 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:04:12 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:04:12 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:04:12 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:04:12 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:04:12 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:04:12 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:04:12 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:04:12 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:04:12 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:04:12 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:04:12 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:04:12 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:04:12 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:04:12 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:04:12 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:04:12 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:04:12 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:05:33 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:05:33 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 13:05:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:05:33 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:05:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:05:33 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:05:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:05:33 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:05:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:05:33 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:05:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:05:33 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:05:34 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:05:34 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:05:34 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:05:34 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:05:34 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:05:34 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:05:34 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:05:34 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:05:34 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:05:34 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:05:34 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:05:34 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:05:34 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:05:34 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:05:34 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:05:34 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:05:34 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:05:34 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:05:34 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:06:18 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:06:18 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 13:06:18 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:06:19 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:06:20 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:06:20 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:06:20 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:06:21 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:06:21 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:06:21 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:06:21 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:06:24 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:06:24 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:06:29 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:06:29 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:07:12 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:07:12 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:07:28 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:07:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:08:59 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:08:59 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 13:08:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:08:59 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:08:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:08:59 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:08:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:08:59 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:08:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:08:59 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:08:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:08:59 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:08:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:08:59 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:08:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:08:59 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:08:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:08:59 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:08:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:08:59 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:08:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:08:59 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:08:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:08:59 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:08:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:08:59 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:08:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:08:59 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:08:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:08:59 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:08:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:09:16 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:09:16 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 13:09:16 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:09:16 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:09:16 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:09:16 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:09:16 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:09:16 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:09:16 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:09:16 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:09:17 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:09:17 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:09:17 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:09:17 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:09:17 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:09:17 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:09:17 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:09:17 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:09:17 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:09:17 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:09:17 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:09:17 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:09:17 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:09:17 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:09:17 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:09:17 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:09:17 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:09:17 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:09:17 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:09:17 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:09:17 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:09:59 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:09:59 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 13:09:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:09:59 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:09:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:09:59 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:09:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:09:59 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:09:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:09:59 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:09:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:09:59 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:09:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:09:59 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:09:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:09:59 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:09:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:09:59 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:09:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:09:59 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:09:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:09:59 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:09:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:09:59 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:09:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:09:59 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:09:59 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:09:59 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:10:00 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:10:00 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:10:00 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:40:27 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:40:27 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 13:40:27 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:40:27 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:40:27 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:40:27 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:40:27 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:40:27 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:40:27 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:40:27 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:40:27 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:40:28 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:40:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:40:28 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:40:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:40:28 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:40:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:40:28 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:40:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:40:28 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:40:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:40:28 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:40:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:40:28 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:40:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:40:28 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:40:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:40:28 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:40:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:40:28 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:40:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:40:28 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:40:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:40:28 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:40:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:40:28 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:40:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:40:28 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:40:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:40:28 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:40:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:40:28 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:40:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:40:28 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:40:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:40:28 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:40:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:40:28 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:40:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:40:28 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:40:28 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:40:28 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:40:29 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:40:29 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:40:29 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:41:09 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:41:09 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 13:41:09 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:41:09 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:41:10 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:41:10 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:41:10 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:41:10 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:41:10 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:41:10 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:41:10 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:41:10 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:41:10 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:41:10 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:41:10 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:41:21 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:41:21 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 13:41:21 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:41:21 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:41:21 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:41:21 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:41:21 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:41:21 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:41:21 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:41:21 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:41:21 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:41:22 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:41:22 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:41:22 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:41:22 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:42:01 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:42:01 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 13:42:01 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:42:01 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:42:01 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:42:01 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:42:01 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:42:01 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:42:01 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:42:01 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:42:01 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:42:01 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:42:01 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:42:01 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:42:01 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:42:01 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:42:01 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:42:01 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:42:01 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:43:54 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:43:54 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 13:43:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:43:54 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:43:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:43:54 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:43:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:43:54 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:43:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:43:54 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:43:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:43:55 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:43:55 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:43:55 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:43:55 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:43:55 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:43:55 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:43:55 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:43:55 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:43:55 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:43:55 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:43:55 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:43:55 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:43:55 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 13:43:55 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 13:43:55 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:43:55 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:43:55 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:43:55 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:43:55 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:43:55 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:43:55 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:43:55 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 13:43:55 - urllib3 - DEBUG - GET http://192.168.1.49:8085/sso/info
+2026-04-25 13:43:55 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "GET /sso/info HTTP/1.1" 200 None
+2026-04-25 14:31:36 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:31:36 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 14:31:36 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:31:36 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:31:36 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:31:36 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:31:36 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:31:36 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:31:36 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:31:36 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:31:36 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:32:21 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:32:21 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 14:32:21 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:32:21 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:32:21 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:32:21 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:32:21 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:32:21 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:32:22 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:32:22 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:32:22 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:32:41 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:32:41 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 14:32:41 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:32:41 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:32:41 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:32:41 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:32:41 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:32:41 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:32:41 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:32:41 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:32:42 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:32:51 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:32:51 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 14:32:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:32:51 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:32:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:32:51 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:32:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:32:51 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:32:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:32:51 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:32:51 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:33:23 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:33:23 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 14:33:23 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:33:23 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:33:23 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:33:23 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:33:23 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:33:23 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:33:23 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:33:23 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:33:24 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:33:33 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:33:33 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 14:33:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:33:33 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:33:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:33:33 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:33:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:33:33 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:33:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:33:33 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:33:33 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:33:54 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:33:54 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 14:33:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:33:54 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:33:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:33:54 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:33:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:33:54 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:33:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:33:54 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:33:54 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:43:14 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:43:14 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.1.49:8085
+2026-04-25 14:43:14 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:43:14 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:43:14 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:43:14 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:43:14 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:43:14 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:43:14 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None
+2026-04-25 14:43:14 - urllib3 - DEBUG - POST http://192.168.1.49:8085/sso/login
+2026-04-25 14:43:15 - urllib3.connectionpool - DEBUG - http://192.168.1.49:8085 "POST /sso/login HTTP/1.1" 200 None

@@ -16,6 +16,9 @@ class ResponseWrapper:
     @property
     def text(self):
         return self._response.text
+    @property
+    def headers(self):
+        return self._response.headers
 
     def get(self, json_path: str ,default=None):
         data = self.json
@@ -28,20 +31,36 @@ class ResponseWrapper:
 
         return data
 
-    def assert_status(self, expected_status):
-        if self.status_code != int(expected_status):
+    def assert_status(self, expected_status) -> "ResponseWrapper":
+        if self.status_code != expected_status:
             raise AssertionError(f'Expected status {expected_status} but got {self.status_code}')
         return self
 
-    def assert_code(self, code:str ):
-        if self.get('code') != int(code):
+    def assert_code(self, code:int ) -> "ResponseWrapper":
+        if self.get('code') != code:
             raise AssertionError(f'Expected status {code} but got {self.status_code}')
         return self
 
-    def assert_message(self, message):
+    def assert_message(self, message) :
         if self.get('message') != message:
             raise AssertionError(f'Expected message {message} but got {self.get("message")}')
         return self
 
-    def assert_success(self):
+    def assert_success(self) -> "ResponseWrapper":
         return self.assert_status(200)
+
+    def assert_data(self, key, value) -> "ResponseWrapper":
+        if self.get(key) != value :
+            raise AssertionError(f'Expected value {value} but got {self.get(key)}')
+        return self
+
+    def assert_data_key(self, key) -> "ResponseWrapper":
+        if not self.get(key):
+            raise AssertionError(f'Expected key {key} but got {self.get(key)}')
+        return self
+
+    def assert_not_data_key(self, key) -> "ResponseWrapper":
+        if self.get(key):
+            raise AssertionError(f'Don\'t expected key {key} but got {self.get(key)}')
+        return self
+

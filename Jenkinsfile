@@ -24,7 +24,7 @@ pipeline {
                         catchError(buildResult: 'UNSTABLE', stageResult: 'FAILURE') {
                             sh '''
                                 # 安装依赖
-                                pip install -r requirements.txt
+                                # pip install -r requirements.txt
                                 # 运行测试并生成 allure 结果
                                 pytest -s -v --alluredir=allure-results --junitxml=junit.xml
                             '''

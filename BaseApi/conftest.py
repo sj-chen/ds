@@ -40,7 +40,17 @@ def db(setting):
     yield cursor
     cursor.close()
 
-@pytest.fixture(scope="class")
-def user(client) :
+@pytest.fixture(scope="function")
+def user_unlogin(client) :
     u = User(client)
     yield u
+    client.setHeaders({'Authorization':''})
+
+
+@pytest.fixture(scope="session", params=load_data('user.yaml')['login_user'])
+def user(request, client) :
+    username, password = request.param
+    u = User(client)
+    u.login(username, password)
+    yield u
+

@@ -21,6 +21,8 @@ class HttpClient:
     def get(self, url) -> ResponseWrapper:
         url = self.host + url
         self.logger.debug(f"GET {url}")
+        print("====+++++++++++++++")
+        print(self.session.headers)
         resp = None
         try:
             resp = self.session.get(url)
@@ -68,3 +70,6 @@ class HttpClient:
 
     def close(self):
         self.session.close()
+
+    def setHeaders(self, headers):
+        self.session.headers.update(headers)
