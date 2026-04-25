@@ -26,7 +26,7 @@ pipeline {
                                 # 安装依赖
                                 # pip install -r requirements.txt
                                 # 运行测试并生成 allure 结果
-                                pytest -s -v --alluredir=allure-results --junitxml=junit.xml
+                                pytest -s -v --alluredir=allure-results --junitxml=junit.xml --clean-alluredir
                             '''
                         }
                     }
@@ -52,8 +52,7 @@ pipeline {
         always {
             script {
                 // 使用 Allure 插件生成报告
-                allure includeProperties: false, jdk: '', results: [[path: 'allure-results']],report: 'allure-report',
-                properties: [disableHistory: true]
+                allure includeProperties: false, jdk: '', results: [[path: 'allure-results']]
             }
         }
     }
