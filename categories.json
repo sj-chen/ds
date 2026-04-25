@@ -2,7 +2,7 @@
     {
         "name": "产品缺陷",
         "matchedStatuses": ["failed"],
-        "messageRegex": ".*业务.*"
+        "messageRegex": ".*业务.*|.*Assert.*"
     },
     {
         "name": "环境问题",
