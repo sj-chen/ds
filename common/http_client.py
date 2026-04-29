@@ -1,14 +1,11 @@
 import logging
-from dataclasses import dataclass
 from logging import Logger
-from tabnanny import check
 
 import requests
-from requests import Session
 from requests.adapters import HTTPAdapter
 from urllib3 import Retry
 
-from BaseApi.response import ResponseWrapper
+from common.response import ResponseWrapper
 
 
 class HttpClient:
@@ -31,7 +28,7 @@ class HttpClient:
 
         # if resp is None or self.check(resp):
         #     return resp
-
+        print(resp.request.url, resp.request.headers, resp.request.body)
         return ResponseWrapper(resp)
 
     def post(self, url, data) -> ResponseWrapper:
@@ -72,4 +69,5 @@ class HttpClient:
         self.session.close()
 
     def setHeaders(self, headers):
+        self.session.headers.clear()
         self.session.headers.update(headers)

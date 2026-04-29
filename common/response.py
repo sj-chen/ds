@@ -38,7 +38,7 @@ class ResponseWrapper:
 
     def assert_code(self, code:int ) -> "ResponseWrapper":
         if self.get('code') != code:
-            raise AssertionError(f'Expected status {code} but got {self.status_code}')
+            raise AssertionError(f'Expected code {code} but got {self.get("code")}')
         return self
 
     def assert_message(self, message) :
